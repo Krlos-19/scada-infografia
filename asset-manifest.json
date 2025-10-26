@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scada-infografia/static/css/main.c7ec3132.css",
+    "main.js": "/scada-infografia/static/js/main.a5f4e6a4.js",
+    "static/js/453.f622ada5.chunk.js": "/scada-infografia/static/js/453.f622ada5.chunk.js",
+    "index.html": "/scada-infografia/index.html",
+    "main.c7ec3132.css.map": "/scada-infografia/static/css/main.c7ec3132.css.map",
+    "main.a5f4e6a4.js.map": "/scada-infografia/static/js/main.a5f4e6a4.js.map",
+    "453.f622ada5.chunk.js.map": "/scada-infografia/static/js/453.f622ada5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.a5f4e6a4.js"
+  ]
+}
